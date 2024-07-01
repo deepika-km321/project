@@ -16,7 +16,6 @@ driver.maximize_window()
 #parent
 # v=driver.find_element(By.XPATH,"//a[contains(text(),'A2Z Infra Engineering Ltd.')]/parent::td").text
 # print(v)
-
 #child
 # v=driver.find_element(By.XPATH,"//a[contains(text(),'A2Z Infra Engineering Ltd.')]/ancestor::tr/child::td").text
 # print(len(v))
